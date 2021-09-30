@@ -6,7 +6,7 @@ Telnet client will be required to check if the provided implementation is workin
 
 It originally works as a bare TCP server.
 This means, when you access it from your Web browser (Chrome, Firefox, Safari, etc.), it will not provide any valid responses.
-The exercise here is to make the server reply valid responses following Hyper-Text Transport Protocol (HTTP) to clients.
+The exercise here is to make the server reply valid responses following Hypertext Transfer Protocol (HTTP) to clients.
 
 You can run the server with the following commands;
 ```sh
