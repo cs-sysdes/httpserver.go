@@ -40,9 +40,9 @@ func main() {
 }
 
 func handleConnection(conn net.Conn) {
-    // close connection when this function ends
+	// close connection when this function ends
 	defer conn.Close()
 
-    // write response
+	// write response
 	conn.Write([]byte("Hello world."))
 }
