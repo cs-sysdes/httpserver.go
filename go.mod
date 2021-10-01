@@ -1,3 +1,3 @@
-module github.com/cs-sysdes/httpserver.go
+module httpserver.go
 
 go 1.17
